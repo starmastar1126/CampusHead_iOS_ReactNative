@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-fbsdk] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-iap] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-iap\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-youtube] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-youtube\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dfeada4dcd595023a32512b67002cf94\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf67fabfe827519b5d200d24c9af72f\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d0b2a9b19719f2ec1a4672b0d2ac267b\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:21:1-37:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\22b9b7aa391c279906237dbcb3803cc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\23bb3cfcc60c4d3954b1ab47b62bf42e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9472906a9a4ef40583b85120232f8024\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a239542e7ef3f38ec1c098994435ade1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\e12112849212ef8f0fe19e64614ea77c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b50101b82b1c530a0f20350574bb389e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5a3af290b54871d4cace4fe764b701b8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5154b5f5a59e8363fc2e04b0bc771f0d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\447a4868b42b3cccfe622a7314446fcf\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:21:1-61:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bc4c3d9ff96c1194aeaaf2ac307029cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3241d01e3ddc144d9ea67d1f71128426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ddb23ef862599f4cfe925910c0e96cba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4b0592606aabca4129de52a428628cc5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b0154903f3a3b31e229358de1af64a50\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbed8a70693836da189214926b97e62e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b5afd2d2b85a76473b420c7043ae5e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\7e1b431b2898187c4aa54b2726445996\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\48dae18c25c9d24f79288df44f2b39a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bb4c3dc819d53503b1720c02780c845f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae5365368ba0b36821183a1f2030f2c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d7d48e8f230ee1fe2c8eeaa491d5f282\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\67c19ae7c2dba5efdd5ab92be678a1b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4dcabd006c9372075cd636149a41fbfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a9b02422406b742bdc2b649fc7ed7a22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\472e242b4329811d1b192ac2eb28c125\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fe6d5028bb96a91c59fe7b0471f92a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\086bfcace4a421fdb0f377a3fac129d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f373926cfcebca242504203dfa43c7e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\beda26ce6b87b0a0ff0030e2f651ae0c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d8470c8ea0f281662c13c68850748560\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\624a14e7ca3ac88d6ed98b0e004fbbc5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5d44ead763e03318c8cde110b4eb99e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4e399f67e6514135760ff6c4faec2f5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\db37c70159ed1f4c050b4c5f6d1d3dac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35d51dab3f137ea509ba35a742d22232\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ad6200cd00d0e7b589d680a8a52c6f98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\0191b65b921bc969204ab0923048be01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9f2bb9bf91b4524233276d0524d448d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\311fe64ae66f7be8023d374fa42ccdb0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8bc7952d0c13a9e6b812c45ed7e3810a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8d78e824b837b5d3a6b1c1a308f8febb\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-fbsdk] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dfeada4dcd595023a32512b67002cf94\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dfeada4dcd595023a32512b67002cf94\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d0b2a9b19719f2ec1a4672b0d2ac267b\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d0b2a9b19719f2ec1a4672b0d2ac267b\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\447a4868b42b3cccfe622a7314446fcf\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\447a4868b42b3cccfe622a7314446fcf\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:28:5-59:19
+MERGED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:12:5-21:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4b0592606aabca4129de52a428628cc5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4b0592606aabca4129de52a428628cc5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b0154903f3a3b31e229358de1af64a50\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b0154903f3a3b31e229358de1af64a50\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\beda26ce6b87b0a0ff0030e2f651ae0c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\beda26ce6b87b0a0ff0030e2f651ae0c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.campushead.MainActivity
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-iap\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-iap\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-youtube] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-youtube\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-youtube] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-youtube\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dfeada4dcd595023a32512b67002cf94\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dfeada4dcd595023a32512b67002cf94\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf67fabfe827519b5d200d24c9af72f\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf67fabfe827519b5d200d24c9af72f\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\775b59570cef2bc8d6bade83c1f38844\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d0b2a9b19719f2ec1a4672b0d2ac267b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d0b2a9b19719f2ec1a4672b0d2ac267b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\22b9b7aa391c279906237dbcb3803cc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\22b9b7aa391c279906237dbcb3803cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\23bb3cfcc60c4d3954b1ab47b62bf42e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\23bb3cfcc60c4d3954b1ab47b62bf42e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9472906a9a4ef40583b85120232f8024\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9472906a9a4ef40583b85120232f8024\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a239542e7ef3f38ec1c098994435ade1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a239542e7ef3f38ec1c098994435ade1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\e12112849212ef8f0fe19e64614ea77c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\e12112849212ef8f0fe19e64614ea77c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b50101b82b1c530a0f20350574bb389e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b50101b82b1c530a0f20350574bb389e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5a3af290b54871d4cace4fe764b701b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5a3af290b54871d4cace4fe764b701b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5154b5f5a59e8363fc2e04b0bc771f0d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5154b5f5a59e8363fc2e04b0bc771f0d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\447a4868b42b3cccfe622a7314446fcf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\447a4868b42b3cccfe622a7314446fcf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bc4c3d9ff96c1194aeaaf2ac307029cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bc4c3d9ff96c1194aeaaf2ac307029cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3241d01e3ddc144d9ea67d1f71128426\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3241d01e3ddc144d9ea67d1f71128426\AndroidManifest.xml:20:5-43
+MERGED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ddb23ef862599f4cfe925910c0e96cba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ddb23ef862599f4cfe925910c0e96cba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4b0592606aabca4129de52a428628cc5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4b0592606aabca4129de52a428628cc5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b0154903f3a3b31e229358de1af64a50\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b0154903f3a3b31e229358de1af64a50\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbed8a70693836da189214926b97e62e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbed8a70693836da189214926b97e62e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b5afd2d2b85a76473b420c7043ae5e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b5afd2d2b85a76473b420c7043ae5e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\7e1b431b2898187c4aa54b2726445996\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\7e1b431b2898187c4aa54b2726445996\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\48dae18c25c9d24f79288df44f2b39a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\48dae18c25c9d24f79288df44f2b39a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bb4c3dc819d53503b1720c02780c845f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bb4c3dc819d53503b1720c02780c845f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae5365368ba0b36821183a1f2030f2c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae5365368ba0b36821183a1f2030f2c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d7d48e8f230ee1fe2c8eeaa491d5f282\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d7d48e8f230ee1fe2c8eeaa491d5f282\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\67c19ae7c2dba5efdd5ab92be678a1b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\67c19ae7c2dba5efdd5ab92be678a1b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4dcabd006c9372075cd636149a41fbfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4dcabd006c9372075cd636149a41fbfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a9b02422406b742bdc2b649fc7ed7a22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a9b02422406b742bdc2b649fc7ed7a22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\472e242b4329811d1b192ac2eb28c125\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\472e242b4329811d1b192ac2eb28c125\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fe6d5028bb96a91c59fe7b0471f92a6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fe6d5028bb96a91c59fe7b0471f92a6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\086bfcace4a421fdb0f377a3fac129d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\086bfcace4a421fdb0f377a3fac129d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f373926cfcebca242504203dfa43c7e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f373926cfcebca242504203dfa43c7e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bbaabd5aa95dff277c138fedab428b7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\beda26ce6b87b0a0ff0030e2f651ae0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\beda26ce6b87b0a0ff0030e2f651ae0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d8470c8ea0f281662c13c68850748560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d8470c8ea0f281662c13c68850748560\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\624a14e7ca3ac88d6ed98b0e004fbbc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\624a14e7ca3ac88d6ed98b0e004fbbc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5d44ead763e03318c8cde110b4eb99e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\5d44ead763e03318c8cde110b4eb99e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4e399f67e6514135760ff6c4faec2f5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\4e399f67e6514135760ff6c4faec2f5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\db37c70159ed1f4c050b4c5f6d1d3dac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\db37c70159ed1f4c050b4c5f6d1d3dac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35d51dab3f137ea509ba35a742d22232\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35d51dab3f137ea509ba35a742d22232\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ad6200cd00d0e7b589d680a8a52c6f98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ad6200cd00d0e7b589d680a8a52c6f98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\0191b65b921bc969204ab0923048be01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\0191b65b921bc969204ab0923048be01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9f2bb9bf91b4524233276d0524d448d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9f2bb9bf91b4524233276d0524d448d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\311fe64ae66f7be8023d374fa42ccdb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\311fe64ae66f7be8023d374fa42ccdb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8bc7952d0c13a9e6b812c45ed7e3810a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8bc7952d0c13a9e6b812c45ed7e3810a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8d78e824b837b5d3a6b1c1a308f8febb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8d78e824b837b5d3a6b1c1a308f8febb\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\android\app\src\debug\AndroidManifest.xml:5:22-75
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:19
+	android:name
+		ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-116
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] D:\Star.Master\development\workspace\mobiles\react_native\Johnny_CampusHead\projects\CampusHead_iOS_ReactNative\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a5b24c7e0f3864c09e302dcab6cc768d\AndroidManifest.xml:34:19-64
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\adf5de09f7c894384920cbd4150dec31\AndroidManifest.xml:23:22-79
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\70b15b85ac354c519119ec8c4a380290\AndroidManifest.xml:52:13-65
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\61e9d897d5934c4a5001b0077fe76d66\AndroidManifest.xml:18:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\abd65a66cf1ea45bd851cdd63655e7e9\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6ed03d1c1eeeca9a248563a3c14fc75d\AndroidManifest.xml:24:13-58
